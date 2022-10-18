@@ -1,0 +1,20 @@
+^contentpage {
+    background-color:lightgreen;
+}
+
+stacklayout {
+    background-color: mistyrose;
+    margin:20;
+}
+
+.lblTitulo {
+    font-size: large;
+    text-align:center;
+    color:black;
+}
+
+button {
+    border-color: royalblue;
+    color: white;
+    margin: 20;
+}
